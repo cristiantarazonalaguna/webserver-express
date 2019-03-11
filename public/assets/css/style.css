@@ -1,0 +1,12 @@
+footer{
+    background: black;
+    position: fixed;
+    bottom: 0px;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+    color: white;
+    font-family: fantasy;
+
+}
